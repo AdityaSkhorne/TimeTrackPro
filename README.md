@@ -9,22 +9,19 @@ The Automated Attendance Tracker and Scheduler is a versatile web application de
 
 **Visit the Demo:** https://automated-attendance-tracker-and-scheduler1jwev47x6o.codedesign.app/
 
+![image](https://github.com/AdityaSkhorne/TimeTrackPro/assets/133169568/33885a17-84af-4a3b-9065-b85028e594e0)
 
 
-**Features**
+# Features
 **General Features**
 **Stream Selection:** Choose your role (e.g., student, employee, teacher, doctor) upon login to tailor the app features to your needs.
 **Feature Access:** Change your stream or select specific features through the features section.
-
-
 
 **Attendance Tracking**
 **Real-Time Updates:** Mark attendance instantly for accurate record-keeping.
 **Automated Report Generation:** Generate detailed attendance reports in Excel format.
 **Historical Data Access:** View and analyze past attendance records.
 **Role-Based Access:** Different access levels for administrators, teachers, and students.
-
-
 
 **Scheduling**
 **Appointment Scheduler:** Manage and schedule appointments with a calendar interface.
@@ -34,7 +31,7 @@ The Automated Attendance Tracker and Scheduler is a versatile web application de
 
 
 
-**Specific Use Cases**
+# Specific Use Cases
 **1] Students**
 **QR Code Attendance:** Students can mark and track their attendance using QR codes provided by their teachers.
 
@@ -66,7 +63,7 @@ Emergency and Break Management
 **Presence/Absence Updates:** Users can update their status during emergencies, holidays, lunch, or breakfast breaks.
 
 
-**Technical Specifications**
+# Technical Specifications
 **Technology Stack:**
 **Front-End:** HTML, CSS, JavaScript, React
 **Back-End:** Node.js, Express.js, Python
